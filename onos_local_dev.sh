@@ -40,7 +40,7 @@ pip3 install selenium
 
 # Git 
 # https://wiki.onosproject.org/display/ONOS/Installing+required+tools
-sudo apt-get install git git-review
+sudo apt-get install git git-review -y
 
 
 # JDK 11 - Amazon Corretto
